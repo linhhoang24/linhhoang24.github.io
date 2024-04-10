@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customization on Linhhoang24 Portfolio</title>
+    <link>https://linhhoang24.github.io/tags/customization/</link>
+    <description>Recent content in Customization on Linhhoang24 Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>linhhoang24@gmail.com (Linh Hoang)</managingEditor>
+    <webMaster>linhhoang24@gmail.com (Linh Hoang)</webMaster>
+    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://linhhoang24.github.io/tags/customization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom JavaScript and CSS</title>
+      <link>https://linhhoang24.github.io/post/custom/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><author>linhhoang24@gmail.com (Linh Hoang)</author>
+      <guid>https://linhhoang24.github.io/post/custom/</guid>
+      <description>&lt;p&gt;With custom CSS and JavaScript you can change pretty much anything in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; appearance or functionality, and it&amp;rsquo;s pretty simple, too!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
